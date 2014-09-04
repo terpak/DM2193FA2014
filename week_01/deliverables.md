@@ -16,9 +16,30 @@
 #Reading Responses
 
 ###[PROGRAMMING IS NOT A CRAFT](http://dannorth.net/2011/01/11/programming-is-not-a-craft/)
-
+I don't like this article, plain and simple. It oversimplifies the art of creating a program to the point that it
+sounds like the author has absolutely no programming experience themselves. He uses Visual Basic as an example of
+a language allowing know-little users to drag-and-drop themselves a solution to their software needs. This is
+absurd. If anything, VB's drag-and-drop style takes the DESIGN out of programming, and design is a craft on its
+own, completely seperate from the act of designing a useful program or website. One must still connect the design
+and create the functionality on the back end of a project, which is programming at its purest. Also, saying that
+programming isn't a craft because you don't necessarily need an educational background or have to go through
+a rigorous span of training strips the title of "craft" from many, many professions that are more crafts than
+law or medicine. I can understand the idea that people who aren't software developers don't care how elegant a
+solution is, but if I buy a nice hand-made chair, I don't give a fuck about how elegantly it was made. Does that 
+make the person who crafted this chair with their own hands and wit any less of a craftsman? No. And, as such, if
+I formulate a breakthrough or efficient solution to your problem, it doesn't mean shit if you know how beautiful
+and unique my solution is or not. A craft is defined as an activity involving skill in which the craftsman makes
+something by hand. How you obtained the skill shouldn't have any weight in your title as a craftsman.
 
 ###[Why Software Development is a Craft](http://blog.8thlight.com/doug-bradbury/2009/08/22/why-software-development-is-a-craft.html)
+This article does a good job explaining, in a simple and detailed way, why software development is indeed a craft.
+It goes to the extent of breaking down what defines a craft, and dedicating a section to explaining why software
+development relies on each of these segments of craftsmanship. Though I do believe in software development as a
+craft, I never considered what aspects of programming makes it a craft. I also like how the article describes the
+gradual connection of the hand and the eye over time by contrasting today's instant debugging capabilities versus
+the lengthy time between writing your code and running it for the first time that developers had to deal with
+previously.
+
 
 ###[Software Engineering: Dead?](http://blog.codinghorror.com/software-engineering-dead/)
 This article scared me at first until I read further and thought more deeply about what was actually being said.
