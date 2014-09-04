@@ -13,6 +13,27 @@
 
 ---
 
+#Reading Responses
+
+###[PROGRAMMING IS NOT A CRAFT](http://dannorth.net/2011/01/11/programming-is-not-a-craft/)
+
+
+###[Why Software Development is a Craft](http://blog.8thlight.com/doug-bradbury/2009/08/22/why-software-development-is-a-craft.html)
+
+###[Software Engineering: Dead?](http://blog.codinghorror.com/software-engineering-dead/)
+This article scared me at first until I read further and thought more deeply about what was actually being said.
+At first glance, I was offended at my passion being denounced as having "come and gone." But, then it occurred to
+me that the article is right.  Software ENGINEERING is relatively, for the lack of a better word, dead. That is
+because engineering is based on a set of strictly followed principles. It is an exact art by definition. However,
+"exact" isn't necessarily what I would call my experience in programming. I'm the lead developer for a company, and
+even in that context my methods are inexact and relatively experimental. A more proper way to describe "Software
+Engineering" would be "Software Evolution", in my opinion. Programming projects aren't like architectural projects.
+You don't start with an exact outcome and simply put the pieces in place. I you told me about a developer who was
+able to go from start to finish without any redesigning or mistakes, I would probably slap you in the face and tell
+you to get real. Software evolves throughout development, and is never expected to work the first time. Each class, 
+file and function can change at any time to suit new needs or repair bugs. It's interesting to me that the epiphany
+that the author and his co-worker experience is the same that his article made me experience.
+
 ## Weekly Deliverables
 
 ### Overview
